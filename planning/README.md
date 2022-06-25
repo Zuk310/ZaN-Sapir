@@ -20,5 +20,5 @@ Having some exmaple from the owner:
 ## Figma
 
 Figma has been used to create a basic understanding of the site layout:
-[View Figma here](https://zan-sapir.herokuapp.com/](https://www.figma.com/file/IfvYiqdrI4vHWCW3MxQCWJ/Zan-Sapir)
+[View Figma here](https://www.figma.com/file/IfvYiqdrI4vHWCW3MxQCWJ/Zan-Sapir)
 
