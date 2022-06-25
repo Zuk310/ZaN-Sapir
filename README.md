@@ -21,7 +21,7 @@ Zan Sapir CRM system demo can [view here](https://zan-sapir.herokuapp.com/)
 
 Zan Sapir Home-page
 
-![Home page photo](https://ibb.co/kJP8HtQ)
+![Home page photo](https://i.ibb.co/gdcTjxz/1.png))
 
 ---
 
