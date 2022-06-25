@@ -26,7 +26,7 @@ Zan Sapir Home-page
 ---
 
 Zan Sapir Product-page
-![Product page photo](https://ibb.co/zPvhP62)
+![Product page photo](https://i.ibb.co/P1HZ1DW/Screenshot-2022-06-25-193022.png)
 
 ---
 Zan Sapir Checkout-page
