@@ -36,6 +36,9 @@ Zan Sapir Checkout-page
 ## Tech Stack
 
 MongoDB
+
 ReactJS
+
 Express.js
+
 Node.js
