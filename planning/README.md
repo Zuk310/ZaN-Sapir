@@ -22,3 +22,10 @@ Having some exmaple from the owner:
 Figma has been used to create a basic understanding of the site layout:
 [View Figma here](https://www.figma.com/file/IfvYiqdrI4vHWCW3MxQCWJ/Zan-Sapir)
 
+## Features to be added
+
+- Localization support (EN/HE)
+- checkout options
+- sales badge for better user engagement
+- toggle theme
+- refactor backend and admin dashboard according to added features
