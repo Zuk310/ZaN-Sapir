@@ -26,10 +26,9 @@ Figma has been used to create a basic understanding of the site layout:
 
 Those are features that would be added in future versions of the application.
 
-The backend and the website/CRM system would be refactored according to those changes
+The backend and the website/CRM system would be refactored according to the changes.
 
 - Localization support (EN/HE)
 - Checkout
 - Sales badge for better user engagement
 - Toggle theme
-
