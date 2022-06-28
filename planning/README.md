@@ -25,7 +25,7 @@ Figma has been used to create a basic understanding of the site layout:
 ## Features to be added
 
 - Localization support (EN/HE)
-- checkout options
-- sales badge for better user engagement
-- toggle theme
-- refactor backend and admin dashboard according to added features
+- Checkout
+- Sales badge for better user engagement
+- Toggle theme
+- Refactor backend and admin dashboard according to added features
