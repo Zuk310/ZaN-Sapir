@@ -32,3 +32,4 @@ The backend and the website/CRM system would be refactored according to the chan
 - Checkout
 - Sales badge for better user engagement
 - Toggle theme
+- Google/Facebook sign-in
