@@ -1,7 +1,7 @@
 
 # Zan Sapir
 
-Zan Sapir is an E-commers project based on the MERN-stack for a real life gallery placed in Zefat.
+Zan Sapir is an E-commerce project based on the MERN-stack for a real life gallery placed in Zefat.
 
 ## Description
 
