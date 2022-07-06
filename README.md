@@ -9,7 +9,7 @@ The project contains 2 front-end apps:
 * Zan Sapir E-commerce website
 * Zan Sapir CRM system
 
-Both use a Node.js based backend to render information and make CRUD operations.
+Both use a Node.js and Express.js based backend to render information and make CRUD operations.
 
 ## Live Demonstration
 
